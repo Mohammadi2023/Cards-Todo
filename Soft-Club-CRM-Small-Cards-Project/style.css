@@ -1,0 +1,84 @@
+.all{ 
+    background-color: rgba(3, 3, 6, 0.88);
+    width: 100%;
+}
+.btnadd{
+    margin-left: 20px;
+    border: none;
+    height: 45px;
+    width: 50px;
+    border-radius: 130px;
+}
+.select{
+    margin-left: 20px;
+    border-radius: 20px;
+    height: 36px;
+    width: 150px;
+}
+.searchinp{
+    margin-left: 40px;
+    border-radius: 20px;
+    height: 30px;
+    width: 250px;
+}
+.card{
+    background-color: rgba(34, 34, 46, 0.88);
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 46%;
+    height: 50vh;
+}
+.soft{
+    color: gray;
+    margin-left: 50px;
+}
+.bgadd{
+    margin-top: -15px;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left: 25px;
+    width: 60px;
+    border-radius: 15px;
+    height: 25px;
+    background-color: greenyellow;
+    margin-left: 480px;
+}
+.hello{
+    color: white;
+    margin-top: -12px;
+    margin-left: 500px;
+}
+.name{
+    font-size: 20px;
+    color: rebeccapurple;
+    margin-left: 50px;
+}
+.email,.city{
+    color:white;
+    margin-left: 50px;
+}
+.city{
+display: inline;
+}
+.month{
+    color: white;
+    margin-left: 350px;
+    display: inline;
+}
+.start{
+    width: 200px;
+    margin-left: 50px;
+    color: darkcyan;
+   margin-top: 30px;
+}
+
+.info{   
+    margin-top: -100px;
+    margin-left: 400px;
+}
+.edit{
+margin-left: 20px;
+}
+.del{
+    margin-left: 20px;
+}
